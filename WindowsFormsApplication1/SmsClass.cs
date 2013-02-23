@@ -14,6 +14,7 @@ namespace WindowsFormsApplication1
 {
 
     //modulo com as funções de ligação a um modem GMS (telemovel), e envio de sms's
+    //mechupe aqui
     namespace SMS
     {
         class SmsClass //cria a class smsClass
